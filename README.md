@@ -25,3 +25,12 @@ The github contains the addon scripts added on on top of alphatab to make the we
 
 ![guit5](https://github.com/circinusX1/guitar-tab-player/assets/69641625/c083f235-965a-4d7d-b537-17c9e979a746)
 
+
+### P.S.
+  
+* Software related music:
+  * 
+      * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/@AIureaSonus)
+   
+
+    
