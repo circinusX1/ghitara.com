@@ -1,4 +1,5 @@
 # [ghitara.com](https://ghitara.com)
+[Buy me a coffee](https://www.paypal.com/ncp/payment/UY6RJK9AQ6HVC)
 # Online guitar tabs player
 
 ----
